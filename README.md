@@ -13,19 +13,31 @@ Run the app:
 
 App Setup
 1.) I created a GutHub repo called burger and clone it to my computer.
+
 2.) I then ran npm init from the command line to make a package.json file.
+
 3.) Next, I installed the Express npm package by typing the command mpm install express from the   
+
       command line.
+      
 4.) Then I created a server.js file.
+
 5.) Next I installed the Handlebars npm package from the command line using the command: npm install 
+
       express-handlebars.
+      
 6.) Then I installed MySQl from the command line using the command npm install mysql.
+
 7.) Finally, I setup the directory structure and added the appropriate empty files in the required 
      directories.
+     
 .
 ├── config
+
 │   ├── connection.js
+
 │   └── orm.js
+
 │ 
 ├── controllers
 │   └── burgers_controller.js
