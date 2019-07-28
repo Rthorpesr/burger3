@@ -1,7 +1,10 @@
 # burger3
 Created by: Reginald D. Thorpe Sr.
+
 Date: July 29, 2019
+
 Reason: GWU Boot camp Homework assignment, week 8.
+
 Purpose: Node Express Handlebars: Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 	      
  - Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be 
