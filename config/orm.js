@@ -1,5 +1,5 @@
 // Import (require) connection.js
-var connection = require("../config/connection.js");
+var connection = require('./connection');
 
 // Helper function for SQL syntax.
 function printQuestionMarks(num) {
