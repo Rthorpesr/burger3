@@ -7,7 +7,8 @@
 }
 
 .jumbotron > h1 {
-    font-family: 'Creepster', cursive;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-family: 'Creepster', cursive; */
 }
 
 #newburger {
@@ -15,11 +16,11 @@
 }
 
 #color-override {
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color: #2b0cdb;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -30,7 +31,7 @@
 }
 
 #righthead {
-    background-color: #f0ad4e;
+    background-color: #83070d;
     color: white;
     text-align: center;
     font-size: 1.2em;

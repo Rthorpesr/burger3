@@ -1,32 +1,10 @@
 
-INSERT INTO burgers (
+INSERT INTO burgers (burger_name, devoured) 
+VALUES ("Double Cheese Burger", 0);
 
-burger_name,
+INSERT INTO burgers (burger_name, devoured) 
+VALUES ("Bacon Cheese Burger", 0) 
 
-devoured
-
-) VALUES
-
-(
-
-"Beef Double Cheese Burger",
-
-0
-
-),
-
-(
-
-"Patty Melt Burger",
-
-0
-
-),
-
-(
-
-"Mushroom & Swiss Double Cheese Burger",
-
-0
-
-);
+INSERT INTO burgers (burger_name, devoured) 
+VALUES ("Pizza Burger", 0) 
+ 
