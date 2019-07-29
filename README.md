@@ -1,4 +1,4 @@
-# burger3
+# Eat Da Burger
 Created by: Reginald D. Thorpe Sr.
 
 Date: July 29, 2019
@@ -14,9 +14,9 @@ Purpose: Node Express Handlebars: Eat-Da-Burger! is a restaurant app that lets u
 
  - The app will store every burger in a database, whether devoured or not.
 
-Eat Da Burger!! is hosted online here.
+# Eat Da Burger!! is hosted online here.
 
-Built With
+# Built With
 Node
 JavaScript and jQuery
 Bootstrap
