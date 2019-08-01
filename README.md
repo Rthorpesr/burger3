@@ -14,7 +14,7 @@ Purpose: Node Express Handlebars: Eat-Da-Burger! is a restaurant app that lets u
 
  - The app will store every burger in a database, whether devoured or not.
 
-# Eat Da Burger!! is hosted online here.
+# Eat Da Burger!! is hosted online here: https://frozen-plains-13917.herokuapp.com/
 
 # Built With
 Node
